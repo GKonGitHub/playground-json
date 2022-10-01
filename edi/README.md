@@ -1,3 +1,4 @@
+![big3tech](https://user-images.githubusercontent.com/70111758/193418421-d51e342f-722b-4a7e-9d55-1eb9625d8f8e.png)
 
 The B2B transaction process between carriers and broker partners was for a long time based on exchange of paper.
 EDI made the design, implementation, manufacture or application of systems for electronic data interchange within the insurance industry possible.
