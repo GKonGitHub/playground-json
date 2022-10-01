@@ -21,14 +21,10 @@ APIs enable realtime exchange while EDI enables periodic echange of data.
 Business having establised EDI practices in place do not need to invest in separate infrastructure for realtime collaboration with trading partmers.
 Companies need to support both a core set of EDI transaction types and API capabilities or risk missing out on important opportunities to drive revenue, growth and competitive differentiation.
 
-Big 3 emerging technologies : IoT, Blockchain, AI 
-
-The challenge is to find ways to build on existing technologies and investments like EDI.
-
-Today, we are seeing existing and emerging Vendors and Insurance compaines leveraging IoT, AI and Blockchain . How will these technologies complement EDI and API integration?
-
+Challenges posed by the Big 3 emerging technologies : IoT, Blockchain, AI 
+The challenge is to find ways to build on existing technologies and investments like EDI. The industry will only reap the benefits and advantages if there is a way to build on existing technologies like EDI. 
+Today, we are seeing current and emerging Vendors and Insurancecompaines leveraging IoT, AI and Blockchain. How will these technologies complement EDI and API integration?
 The business of insurance relies on multi party collaboration.
-
 In the coming years, organizations - brokers, vendors and carrier must work together to achieve shared goals and outcomes that deliver a superior end to end experience.
 
 CSIO provides information, developed through a process of industry wide consensus, which defines communications procedure and message formats for agent/broker company data communications within the insurance industry. These Standards are designed to enhance data communications between independent insurance agents/brokers and the companies they represent by providing functional specifications for hardware and software interface system components that can be employed in a variety of interface arrangements. Over the years CSIO has emerged as the de facto orgnization enabling multi party collaboration.
