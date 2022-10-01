@@ -30,6 +30,26 @@ In the coming years, organizations - brokers, vendors and carrier must work toge
 
 CSIO provides information, developed through a process of industry wide consensus, which defines communications procedure and message formats for agent/broker company data communications within the insurance industry. These Standards are designed to enhance data communications between independent insurance agents/brokers and the companies they represent by providing functional specifications for hardware and software interface system components that can be employed in a variety of interface arrangements. Over the years CSIO has emerged as the de facto orgnization enabling multi party collaboration.
 
+The EDI standards provide 
+-a viable EDI framework that defines information formats for broker/company data communication
+-flexibility in the implementation of EDI software
+-flexibility in the information content to be exchanged in any given transaction
+-flexibility in modification of electronic data interchange capabilities
+-mechanisms for data control and accuracy
+-standards independent of type or manufacturer of computer systems
+-mechanisms for user control of data preparation, interpretation and documentation
+-Standards which are as independent as possible of communications service and which allow for utilization of value added networks
+
+
+An insurance company may send several EDI documents covering each aspect of the business. These are sent periodically and responses are also received periodically. 
+How can the Big 3 technologies enhance the efficiency of B2B transactions set up with EDI ?
+Which is the focuse of this project. 
+
+
+
+
+
+
 
 
 
