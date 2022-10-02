@@ -43,7 +43,7 @@ The EDI standards provide
 
 An insurance company may send several EDI documents covering each aspect of the business. These are sent periodically and responses are also received periodically. 
 How can the Big 3 technologies enhance the efficiency of B2B transactions set up with EDI ?
-Which is the focuse of this project. 
+Which is the focus of this project. 
 
 
 
